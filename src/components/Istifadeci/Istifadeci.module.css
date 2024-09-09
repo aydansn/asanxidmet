@@ -1,0 +1,115 @@
+.allOfBorder {
+  padding: 20px 30px;
+  background-color: #f3f3f3;
+  width: 582px;
+  height: 64px;
+  padding: 8px 16px 8px 16px;
+  gap: 8px;
+  border-radius: 12px 12px 0px 0px;
+  opacity: 0px;
+  margin-left: 350px;
+}
+.borderroll {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+.borderroll1 {
+  background-color: #134ad4;
+  padding: 10px 30px;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  border-radius: 15px;
+}
+
+.theree {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  text-align: center;
+  padding: 10px 0px 0px 0px;
+}
+
+.yanshi {
+  padding: 10px 50px 50px 50px;
+  background-color: #f3f3f3;
+  margin: 0px 15px;
+  border-radius: 20px;
+}
+.uchluside {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  padding: 20px 20px;
+}
+.yanYana {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.btn3 {
+  padding: 10px 13px;
+  background-color: #134ad4;
+  color: white;
+  border-radius: 15px;
+  border: none;
+}
+.btn2 {
+  padding: 10px 19px;
+  background-color: #134ad4;
+  color: white;
+  border-radius: 20px;
+  border: none;
+  text-align: center;
+  display: flex;
+  gap: 5px;
+  align-items: center;
+}
+.allDatas {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 1110px;
+  height: 50px;
+  top: 68px;
+  left: 24px;
+  gap: 0px;
+  opacity: 0px;
+  background-color: white;
+
+}
+.butunistft {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  color: #00000061;
+}
+.id {
+  width: 1110px;
+  height: 60px;
+  gap: 0px;
+  border-radius: 15px 15px 0px 0px;
+  display: flex;
+  justify-content: space-evenly;
+  background: #e6eaed;
+  padding: 20px 105px 20px 40px;
+  text-align: center;
+}
+.lastnput {
+  width: 24px;
+  height: 24px;
+  top: 16px;
+  left: 24px;
+  gap: 0px;
+  border: 2px 0px 0px 0px;
+  opacity: 0px;
+}
+.num2{
+  padding: 10px 20px;
+  border-radius: 10px; 
+  background-color: #34C75933;
+  color: black;
+
+}

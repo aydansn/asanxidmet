@@ -1,0 +1,124 @@
+.allOfBorder {
+  padding: 20px 30px;
+  background-color: #f3f3f3;
+  width: 582px;
+  height: 64px;
+  padding: 8px 16px 8px 16px;
+  gap: 8px;
+  border-radius: 12px 12px 0px 0px;
+  opacity: 0px;
+  margin-left: 350px;
+}
+.borderroll {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+.borderroll1 {
+  background-color: #134ad4;
+  padding: 10px 30px;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  border-radius: 15px;
+  color: white;
+}
+
+.theree {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  text-align: center;
+  padding: 10px 0px 0px 0px;
+}
+
+.yanshi {
+  padding: 10px 50px;
+  background-color: #f3f3f3;
+  margin: 0px 15px;
+  border-radius: 20px;
+}
+
+.btn3 {
+  padding: 10px 13px;
+  background-color: #134ad4;
+  color: white;
+  border-radius: 15px;
+  border: none;
+}
+.uchluside {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  padding: 20px 20px;
+}
+.yanYana {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 50px;
+  align-items: center;
+}
+
+.btn2 {
+  padding: 10px 19px;
+  background-color: #134ad4;
+  color: white;
+  border-radius: 20px;
+  border: none;
+  text-align: center;
+  display: flex;
+  gap: 5px;
+  align-items: center;
+}
+.yanshi {
+  padding: 50px 50px;
+  background-color: #f3f3f3;
+  margin: 0px 20px;
+  border-radius: 20px;
+  width: 1215px;
+  height: 600px;
+  top: 252px;
+  left: 24px;
+  gap: 0px;
+  border-radius: 24px;
+  opacity: 0px;
+}
+.YanashiDuv {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.sideBy {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  width: 438px;
+  height: 56px;
+  gap: 0px;
+  border-radius: 16px 16px 0px 0px;
+  opacity: 0px;
+  background-color: #e6eaed;
+}
+.nameone {
+  /* height: 40px;
+  padding: 16px 421px 16px 16px;
+  border-radius: 0px 0px 16px 16px;
+  background-color: white;
+  margin: 3px 0px;
+  min-width: 400px; */
+  height: 40px;
+  border-radius: 0px 0px 16px 16px;
+  background-color: white;
+  min-width: 440px;
+  margin: 3px 0px;
+  padding: 10px 20px;
+}
+.sistemYan {
+  display: flex;
+  gap: 50px;
+  align-items: center;
+}
+.class {
+  width: 50%;
+}
